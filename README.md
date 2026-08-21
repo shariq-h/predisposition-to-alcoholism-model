@@ -1,6 +1,5 @@
-# EEG Alcoholism Classification (EEGNet)
-
-Utilizing a convultional neural network (CNN) to predict classification of a person clinically assessed as an alcoholic or not based on EEG input.
+# CNN to predict alcoholism based on EEG
+Utilizing a convolutional neural network (CNN) to predict classification of a person clinically assessed as an alcoholic or not based on EEG input.
 
 Implemented in PyTorch using EEGNet, a compact CNN designed for EEG signals, to assign the classes **alcoholic** vs **control**
 
