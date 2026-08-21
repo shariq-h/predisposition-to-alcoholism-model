@@ -14,7 +14,7 @@ Implemented in PyTorch using EEGNet, a compact CNN designed for EEG signals, to 
 
 Example raw signals for one trial from each class:
 
-![Sample EEG signals](images/sample_signals.png)
+![Sample EEG signals](sample_signals.png)
 
 ## Pipeline
 
@@ -40,7 +40,7 @@ Example raw signals for one trial from each class:
 
 Training converged steadily over 30 epochs:
 
-![Training curves](images/training_curves.png)
+![Training curves](training_curves.png)
 
 | Epoch | Train Loss | Train Acc | Val Loss | Val Acc |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Training converged steadily over 30 epochs:
 
 MSE: 0.148
 
-![Confusion matrix](images/confusion_matrix.png)
+![Confusion matrix](confusion_matrix.png)
 
 ## Requirements
 
